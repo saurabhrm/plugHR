@@ -1,0 +1,43 @@
+.modal-content{
+    border-radius: 1rem !important;
+    
+}
+
+.p-dialog-content{
+    padding: 3rem
+}
+
+.org{
+    position: relative;
+    top: 2rem;
+}
+
+.name{
+    padding: 7px;
+}
+
+.p1{
+display: flex;
+    position: relative;
+    width: 25rem;
+    height: 2.8rem;
+}
+.react-tel-input .form-control{
+height: 45px !important;
+    width: 25rem !important;
+}
+
+.phone{
+    position: relative;
+    top: 22px;
+}
+
+.mob{
+    position: relative;
+    bottom: 7px;
+}
+.fut{
+    
+    top: 0rem !important;
+    right: 8rem;
+}

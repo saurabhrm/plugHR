@@ -1,0 +1,14 @@
+.data{
+    position: relative;
+    top: 10rem;
+    width: 77rem;
+    left: 7rem;
+}
+.headP1{
+    color: #132540;
+    font-size: 3.5rem !important;
+}
+.subP1{
+    color: #132540;
+    font-size: 1.5rem;
+}

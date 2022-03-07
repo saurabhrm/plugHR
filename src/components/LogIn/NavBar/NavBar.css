@@ -1,0 +1,35 @@
+.Navbar{
+    height: 3rem;
+    position: sticky;
+
+}
+
+.app-logo{
+    width: 7rem;
+    margin-left: 1rem;
+    
+}
+
+.navbar{
+    height: 4rem;
+}
+.bell{
+    display: flex;
+    position: relative;
+    left: 70rem;
+    font-size: 24px;
+    cursor: pointer;
+}
+.user{
+    display: flex;
+    position: relative;
+    left: 71rem;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.logi{
+    position: relative;
+    left: 8rem;
+}
+

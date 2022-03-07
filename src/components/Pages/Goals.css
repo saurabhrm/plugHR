@@ -1,0 +1,89 @@
+.goals{position: relative;
+    left: 34vh;
+    padding-top: 4rem;}
+
+    .surge_cycle{
+        background-color: rgb(207, 207, 207);
+    padding: 9px;
+    border-radius: 25px;
+    margin: 29px;
+    font-size: 14px;
+    position: initial;
+    display: flex;
+    }
+
+    .commit_goals{
+        height: 7vh;
+    width: 10vw;
+    background-color: #7ec334;
+    color: white;
+    
+    
+    }
+    .commit_goals:hover{
+        background-color:#64a71d;
+        color: white;}
+
+        .btn_goal{
+            position: relative;
+    display: flex;
+    left: 40rem;
+        }
+
+        .add_btn{
+            height: 7vh;
+            width: 10vw;
+            background-color: #7ec334;  
+            color: white;
+            
+        }
+
+        .add_btn:hover{
+            background-color:#64a71d;
+            color: white;}
+        
+
+            .btn_add{
+                display: flex;
+                position: relative;
+                right: 27rem;
+    top: 3rem;
+            }
+
+            .btnB{
+                position: absolute;
+    display: flex;
+    top: 18vh;
+    left: 3vw;
+            }
+
+            .Table{
+                position: absolute;
+                display: flex;
+                top: 15rem;
+                left: 2rem;
+            }
+
+            .addbtn{
+                position: inherit;
+                width: auto; 
+            }
+
+
+            .Thead{
+                font-size: 21px;
+                
+            }
+
+            
+            .addG{
+                height: 7vh;
+            width: 10vw;
+            background-color: #7ec334;
+            color: white;
+            
+            left: 3rem;
+            }
+            .addG:hover{
+                background-color:#64a71d;
+                color: white;}

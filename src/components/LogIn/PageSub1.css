@@ -1,0 +1,79 @@
+.log-in{
+    float: right;
+    position: relative;
+    right: 9rem;
+    bottom: 13rem;
+    font-size: 16px;
+}
+.e-input{
+    display: flex;
+    position: relative;
+    top: 1vh;
+    height: 6vh;
+    width: 46vh !important;
+}
+.p-input{
+    display: flex;
+    position: relative;
+    top: 1vh;
+    width: 21vw;
+    height: 6vh; 
+}
+
+.pass{
+    display: grid;
+    position: relative;
+    top: 2vh;
+
+}
+.fpass{
+    display: grid;
+    position: relative;
+    left: 25vh;
+    top: 4vh;
+}
+.btn{
+    position: relative;
+    top: 5vh;
+    width: 30vh;
+    
+}
+.button-separator{
+    top: 5vh;
+    position: relative;
+    display: flex;
+}
+.right {
+    height: 1px;
+    background-color: #e6e6e6;
+    flex-grow: 1;
+    margin-left: 0.5rem;
+    position: relative;
+    top: 2vh;
+}
+
+.left {
+    height: 1px;
+    background-color: #e6e6e6;
+    flex-grow: 1;
+    margin-right: 0.5rem;
+    position: relative;
+    top: 2vh;
+}
+.btn-sub1{
+    color: #fff;
+    background-color: #7ec334 !important;
+    border-color: #7ec334 !important;
+    width: 18rem;
+}
+.btn-Login{
+    color: #212529 !important;
+    background-color: #e4e6eb !important;
+    border-color: #e4e6eb !important;
+    width: 18rem; 
+}
+
+.creat{
+    width: 18rem;
+    height: 2.5rem;
+}

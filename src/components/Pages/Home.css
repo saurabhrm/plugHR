@@ -1,0 +1,41 @@
+.home{position: relative;
+left: 34vh;
+padding-top: 4rem;}
+
+.circle_c3{
+    padding: 20px;
+    
+}
+
+.number{
+    display: flex;
+    position: relative;
+    left: 2em;
+    bottom: 3em;
+    font-size: 35px;
+}
+
+.circlepie{
+    gap: 6rem;
+    margin: 5rem;
+    position: relative;
+    top: 1em;
+}
+
+.headTitle{
+    margin: 3em;
+}
+
+.workTitle{
+    display: flex;
+    position: relative;
+    bottom: 3.5em;
+    left: 3em;
+}
+
+.last{
+    display: flex;
+    position: relative;
+    bottom: 3em;
+    left: 3em;
+}
